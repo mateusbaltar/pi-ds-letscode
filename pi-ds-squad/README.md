@@ -1,3 +1,3 @@
-# pi-ds-squad-green
+# pi-ds-letscode/squad-green
 
-Repositório de arquivos do Squad do curso Pi Data Science da Let's Code.
+Repositório de arquivos do Squad Green do curso Pi Data Science da Let's Code.
